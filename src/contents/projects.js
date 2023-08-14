@@ -6,7 +6,7 @@ export const data = [
     {
         date: "Aug2023",
         title: "Web Portfolio",
-        link: "https://github.com/TualekMentha/Web-Portfolio",
+        link: "https://sirilukportfolio.netlify.app/",
         materials: [
             { type: faGithub, link: "https://github.com/TualekMentha/Web-Portfolio" },
             { type: faYoutube, link: "https://youtu.be/DOUP5gwk2jI" },
