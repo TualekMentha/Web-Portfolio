@@ -1,13 +1,14 @@
 import { faGithub, faYoutube } from "@fortawesome/free-brands-svg-icons";
 import picPro from '../assets/WebPortfolio.png'
+import picTic from '../assets/TicTacToe.png'
 
 export const data = [
     {
         date: "Aug2023",
         title: "Web Portfolio",
-        link: "https://youtu.be/DOUP5gwk2jI",
+        link: "https://github.com/TualekMentha/Web-Portfolio",
         materials: [
-            { type: faGithub, link: "https://youtu.be/DOUP5gwk2jI" },
+            { type: faGithub, link: "https://github.com/TualekMentha/Web-Portfolio" },
             { type: faYoutube, link: "https://youtu.be/DOUP5gwk2jI" },
         ],
         descriptions: [
@@ -21,19 +22,21 @@ export const data = [
     },
 
     {
-        date: "",
-        title: "",
-        link: "",
+        date: "Aug2023",
+        title: "Text-based Tic Tac Toe in Python",
+        link: "https://github.com/TualekMentha/TicTacToeProject/blob/master/main.py",
         materials: [
+
+            { type: faGithub, link: "https://github.com/TualekMentha/TicTacToeProject/blob/master/main.py" },
 
         ],
         descriptions: [
-            ""
+            "Create a text-based Tic Tac Toe game in Python, where players can engage in strategic matches using the command line interface."
         ],
         skills: [
-            []
+            ["Python"]
         ],
-        picture: "",
+        picture: picTic,
     }
 
 ]

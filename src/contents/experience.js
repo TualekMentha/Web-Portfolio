@@ -7,8 +7,7 @@ export const data = [
         title: "Web Portfolio",
 
         materials: [
-            { type: faGithub, link: "https://youtu.be/DOUP5gwk2jI" },
-            { type: faYoutube, link: "https://youtu.be/DOUP5gwk2jI" },
+
         ],
         descriptions: [
             " my minimalist portfolio, meticulously built with React and TailwindCSS, influenced by the exquisite style of brittanychiang.com. Explore a clean and intuitive exhibition of my work and skills, where modern design harmonizes with user-friendly functionality.",
